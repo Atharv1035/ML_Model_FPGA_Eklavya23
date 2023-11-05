@@ -6,6 +6,11 @@ The aim of this project was to create a Convolutional Neural Network(_basically 
 
 ## Testing code
 For testing Verilog code ,EDA Playground or Quartus/Vivado is required.
+
+## Tech Stack
+- Jupyter Notebook
+- Verilog
+  
 ## Contributors
 - [Atharv Patil](https://github.com/Atharv1035)
 - [Soha Jawdekar](https://github.com/Sohajawdekar)
